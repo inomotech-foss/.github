@@ -15,6 +15,7 @@
 
 ### 2024
 
+- https://github.com/technocreatives/dbc-codegen/pull/85
 - https://github.com/bytebeamio/rumqtt/pull/878
 - https://github.com/technocreatives/dbc-codegen/pull/83
 - https://github.com/jens-maus/node-ical/pull/332
