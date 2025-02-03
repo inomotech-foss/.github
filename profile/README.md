@@ -13,6 +13,10 @@
 
 ## Contributions
 
+### 2025
+
+- https://github.com/ProfFan/dw3000-ng/pull/22
+
 ### 2024
 
 - https://github.com/greatscottgadgets/hackrf/pull/1493
