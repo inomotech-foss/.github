@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/smoltcp-rs/smoltcp/pull/1041
 - https://github.com/ProfFan/dw3000-ng/pull/22
 
 ### 2024
