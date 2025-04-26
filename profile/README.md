@@ -15,6 +15,8 @@
 
 ### 2025
 
+- https://github.com/eerimoq/bitstruct/pull/50
+- https://github.com/eerimoq/bitstruct/pull/49
 - https://github.com/astral-sh/ruff-action/pull/127
 - https://github.com/danyi1212/celery-insights/pull/85
 - https://github.com/Boshen/cargo-shear/pull/134
