@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/starforgelabs/py-korad-serial/pull/7
 - https://github.com/eerimoq/bitstruct/pull/50
 - https://github.com/eerimoq/bitstruct/pull/49
 - https://github.com/astral-sh/ruff-action/pull/127
