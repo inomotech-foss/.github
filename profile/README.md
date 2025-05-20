@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/neocmakelsp/neocmakelsp/pull/163
 - https://github.com/pyinvoke/invoke/pull/1032
 - https://github.com/starforgelabs/py-korad-serial/pull/7
 - https://github.com/eerimoq/bitstruct/pull/50
