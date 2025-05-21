@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/linux-can/can-utils/pull/596
 - https://github.com/neocmakelsp/neocmakelsp/pull/164
 - https://github.com/neocmakelsp/neocmakelsp/pull/163
 - https://github.com/pyinvoke/invoke/pull/1032
