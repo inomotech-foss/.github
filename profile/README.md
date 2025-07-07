@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/NextChapterSoftware/ec2-action-builder/pull/48
 - https://github.com/linux-can/can-utils/pull/596
 - https://github.com/neocmakelsp/neocmakelsp/pull/164
 - https://github.com/neocmakelsp/neocmakelsp/pull/163
