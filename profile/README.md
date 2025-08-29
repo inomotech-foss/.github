@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/onekey-sec/ubi_reader/pull/118
 - https://github.com/onekey-sec/ubi_reader/pull/117
 - https://github.com/NextChapterSoftware/ec2-action-builder/pull/48
 - https://github.com/linux-can/can-utils/pull/596
