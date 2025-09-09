@@ -15,6 +15,8 @@
 
 ### 2025
 
+- https://github.com/zakhenry/mdbook-protobuf/pull/3
+- https://github.com/zakhenry/mdbook-protobuf/pull/2
 - https://github.com/onekey-sec/ubi_reader/pull/118
 - https://github.com/onekey-sec/ubi_reader/pull/117
 - https://github.com/NextChapterSoftware/ec2-action-builder/pull/48
