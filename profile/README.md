@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/eclipse-paho/paho.mqtt.rust/pull/257
 - https://github.com/rust-embedded/svd/pull/293
 - https://github.com/zakhenry/mdbook-protobuf/pull/3
 - https://github.com/zakhenry/mdbook-protobuf/pull/2
