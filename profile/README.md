@@ -15,6 +15,7 @@
 
 ### 2025
 
+- https://github.com/stuartleeks/dev-container-features/pull/32
 - https://github.com/YuhanLiin/micropb/pull/24
 - https://github.com/eclipse-paho/paho.mqtt.rust/pull/257
 - https://github.com/rust-embedded/svd/pull/293
