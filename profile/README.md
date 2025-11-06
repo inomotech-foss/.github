@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2025
 
+- https://github.com/renovatebot/renovate/pull/39144
 - https://github.com/romnn/cargo-feature-combinations/pull/11
 - https://github.com/Boshen/cargo-shear/pull/295
 - https://github.com/stuartleeks/dev-container-features/pull/32
