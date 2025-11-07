@@ -14,7 +14,6 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 - https://github.com/YuhanLiin/micropb/pull/24
 - https://github.com/eclipse-paho/paho.mqtt.rust/pull/257
 - https://github.com/rust-embedded/svd/pull/293
-- https://github.com/zakhenry/mdbook-protobuf/pull/3
 - https://github.com/zakhenry/mdbook-protobuf/pull/2
 - https://github.com/onekey-sec/ubi_reader/pull/118
 - https://github.com/onekey-sec/ubi_reader/pull/117
