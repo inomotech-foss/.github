@@ -7,6 +7,8 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2025
 
+- https://github.com/z-galaxy/zlink/pull/181
+- https://github.com/z-galaxy/zlink/pull/182
 - https://github.com/renovatebot/renovate/pull/39144
 - https://github.com/romnn/cargo-feature-combinations/pull/11
 - https://github.com/Boshen/cargo-shear/pull/295
