@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2025
 
+- https://github.com/z-galaxy/zlink/pull/183
 - https://github.com/z-galaxy/zlink/pull/181
 - https://github.com/z-galaxy/zlink/pull/182
 - https://github.com/renovatebot/renovate/pull/39144
