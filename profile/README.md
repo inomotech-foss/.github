@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2026
 
+- https://github.com/rust-embedded/rust-sysfs-gpio/pull/82
 - https://github.com/strictdoc-project/strictdoc/pull/2669
 
 ### 2025
