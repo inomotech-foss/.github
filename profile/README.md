@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2026
 
+- https://github.com/esp-rs/openthread/pull/63
 - https://github.com/esp-rs/openthread/pull/62
 - https://github.com/esp-rs/openthread/pull/60
 - https://github.com/esp-rs/openthread/pull/59
