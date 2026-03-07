@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2026
 
+- https://github.com/esp-rs/openthread/pull/64
 - https://github.com/esp-rs/mbedtls-rs/pull/112
 - https://github.com/esp-rs/mbedtls-rs/pull/111
 - https://github.com/esp-rs/mbedtls-rs/pull/110
