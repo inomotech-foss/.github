@@ -7,6 +7,7 @@ You can find our own OSS repositories over at Codeberg: <https://codeberg.org/in
 
 ### 2026
 
+- https://github.com/hetzner/cert-manager-webhook-hetzner/pull/152
 - https://github.com/esp-rs/openthread/pull/65
 - https://github.com/esp-rs/mbedtls-rs/pull/114
 - https://github.com/esp-rs/mbedtls-rs/pull/113
